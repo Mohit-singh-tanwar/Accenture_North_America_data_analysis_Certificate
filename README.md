@@ -1,0 +1,2 @@
+# Accenture_North_America_data_analysis_Certificate
+Accenture North America Data Analysis and Visualization Certification Work
